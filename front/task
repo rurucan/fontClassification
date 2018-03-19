@@ -1,0 +1,50 @@
+#!/usr/bin/env node
+
+const tasks = require('./script');
+const { join } = require('path');
+
+const dirs = {
+  dist: join(__dirname, '../app/public'),
+  vendor: join(__dirname, 'vendor'),
+  render: join(__dirname, 'render'),
+  view: join(__dirname, '../app/view'),
+};
+
+const yargs = require('yargs') // eslint-disable-line
+  .usage('用法: ./task [command] [其他参数]')
+
+  // 打包渲染依赖
+  .command('vendor', '打包外部依赖库文件', {
+    product: {
+      alias: 'p',
+      type: 'boolean',
+      default: false,
+      describe: '指定是否为生成环境',
+    },
+  }, ({ product }) => { tasks.vendor({ product, ...dirs }); })
+
+  // 打包渲染页面文件
+  .command('render', '打包渲染页面文件', {
+    type: {
+      alias: 't',
+      type: 'string',
+      default: 'hot',
+      choices: ['hot', 'live', 'serve', 'build'],
+      describe: '指定构建方式',
+    },
+    port: {
+      alias: 'p',
+      type: 'number',
+      default: 8080,
+      describe: '指定server启动的端口',
+    },
+    host: {
+      type: 'string',
+      default: 'localhost',
+      choices: ['0.0.0.0', 'localhost', '127.0.0.1'],
+      describe: '指定server启动的host',
+    },
+  }, (argv) => { tasks.render({ ...argv, ...dirs }); })
+
+  .help('h')
+  .argv;

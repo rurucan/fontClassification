@@ -1,0 +1,17 @@
+2018-03-19 11:03:37,817 ERROR 3774 [egg-mongoose] mongodb://127.0.0.1/fontStudy disconnected
+2018-03-19 11:03:37,819 ERROR 3774 nodejs.MongoError: [egg-mongoose]failed to connect to server [127.0.0.1:27017] on first connect [MongoError: connect ECONNREFUSED 127.0.0.1:27017]
+    at Pool.<anonymous> (/Users/Jason/Desktop/fontClassification/node_modules/mongodb-core/lib/topologies/server.js:336:35)
+    at Pool.emit (events.js:159:13)
+    at Connection.<anonymous> (/Users/Jason/Desktop/fontClassification/node_modules/mongodb-core/lib/connection/pool.js:280:12)
+    at Object.onceWrapper (events.js:254:19)
+    at Connection.emit (events.js:159:13)
+    at Socket.<anonymous> (/Users/Jason/Desktop/fontClassification/node_modules/mongodb-core/lib/connection/connection.js:189:49)
+    at Object.onceWrapper (events.js:254:19)
+    at Socket.emit (events.js:159:13)
+    at emitErrorNT (internal/streams/destroy.js:64:8)
+    at process._tickCallback (internal/process/next_tick.js:152:19)
+name: 'MongoError'
+message: '[egg-mongoose]failed to connect to server [127.0.0.1:27017] on first connect [MongoError: connect ECONNREFUSED 127.0.0.1:27017]'
+pid: 3774
+hostname: $
+

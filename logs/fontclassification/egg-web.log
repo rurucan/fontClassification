@@ -1,0 +1,139 @@
+2018-03-18 16:20:45,608 INFO 9489 [egg:logger] init all loggers with options: {"dir":"/Users/Jason/Desktop/fontClassification/logs/fontclassification","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"fontclassification-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-03-18 16:20:45,642 INFO 9489 [egg-schedule]: register schedule /Users/Jason/Desktop/fontClassification/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-03-18 16:20:45,643 INFO 9489 [egg-schedule]: register schedule /Users/Jason/Desktop/fontClassification/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-03-18 16:20:45,899 INFO 9489 [egg-mongoose] connecting mongodb://127.0.0.1/fontStudy
+2018-03-18 16:20:45,945 INFO 9489 [egg-static] starting static serve /public/ -> /Users/Jason/Desktop/fontClassification/app/public
+2018-03-18 16:20:45,947 INFO 9489 [egg-security] use csrf middleware
+2018-03-18 16:20:45,948 INFO 9489 [egg-security] use methodnoallow middleware
+2018-03-18 16:20:45,948 INFO 9489 [egg-security] use noopen middleware
+2018-03-18 16:20:45,949 INFO 9489 [egg-security] use nosniff middleware
+2018-03-18 16:20:45,949 INFO 9489 [egg-security] use xssProtection middleware
+2018-03-18 16:20:45,950 INFO 9489 [egg-security] use xframe middleware
+2018-03-18 16:20:45,950 INFO 9489 [egg-security] use dta middleware
+2018-03-18 16:20:45,950 INFO 9489 [egg-security] compose 7 middlewares into one security middleware
+2018-03-18 16:20:45,960 INFO 9489 [egg-mongoose] starting...
+2018-03-18 16:20:45,973 INFO 9489 [egg-mongoose] mongodb://127.0.0.1/fontStudy connected successfully
+2018-03-18 16:20:45,973 INFO 9489 [egg-mongoose] instance[0] start successfully
+2018-03-18 16:20:45,976 INFO 9489 [egg-watcher:app] watcher start success
+2018-03-19 11:03:37,467 INFO 3774 [egg:logger] init all loggers with options: {"dir":"/Users/Jason/Desktop/fontClassification/logs/fontclassification","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"fontclassification-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-03-19 11:03:37,507 INFO 3774 [egg-schedule]: register schedule /Users/Jason/Desktop/fontClassification/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-03-19 11:03:37,507 INFO 3774 [egg-schedule]: register schedule /Users/Jason/Desktop/fontClassification/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-03-19 11:03:37,751 INFO 3774 [egg-mongoose] connecting mongodb://127.0.0.1/fontStudy
+2018-03-19 11:03:37,796 INFO 3774 [egg-static] starting static serve /public/ -> /Users/Jason/Desktop/fontClassification/app/public
+2018-03-19 11:03:37,798 INFO 3774 [egg-security] use csrf middleware
+2018-03-19 11:03:37,799 INFO 3774 [egg-security] use methodnoallow middleware
+2018-03-19 11:03:37,800 INFO 3774 [egg-security] use noopen middleware
+2018-03-19 11:03:37,800 INFO 3774 [egg-security] use nosniff middleware
+2018-03-19 11:03:37,801 INFO 3774 [egg-security] use xssProtection middleware
+2018-03-19 11:03:37,801 INFO 3774 [egg-security] use xframe middleware
+2018-03-19 11:03:37,802 INFO 3774 [egg-security] use dta middleware
+2018-03-19 11:03:37,802 INFO 3774 [egg-security] compose 7 middlewares into one security middleware
+2018-03-19 11:03:37,812 INFO 3774 [egg-mongoose] starting...
+2018-03-19 11:03:37,826 INFO 3774 [egg-watcher:app] watcher start success
+2018-03-19 11:03:49,179 INFO 3952 [egg:logger] init all loggers with options: {"dir":"/Users/Jason/Desktop/fontClassification/logs/fontclassification","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"fontclassification-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-03-19 11:03:49,213 INFO 3952 [egg-schedule]: register schedule /Users/Jason/Desktop/fontClassification/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-03-19 11:03:49,213 INFO 3952 [egg-schedule]: register schedule /Users/Jason/Desktop/fontClassification/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-03-19 11:03:49,370 INFO 3952 [egg-mongoose] connecting mongodb://127.0.0.1/fontStudy
+2018-03-19 11:03:49,400 INFO 3952 [egg-static] starting static serve /public/ -> /Users/Jason/Desktop/fontClassification/app/public
+2018-03-19 11:03:49,401 INFO 3952 [egg-security] use csrf middleware
+2018-03-19 11:03:49,402 INFO 3952 [egg-security] use methodnoallow middleware
+2018-03-19 11:03:49,402 INFO 3952 [egg-security] use noopen middleware
+2018-03-19 11:03:49,402 INFO 3952 [egg-security] use nosniff middleware
+2018-03-19 11:03:49,403 INFO 3952 [egg-security] use xssProtection middleware
+2018-03-19 11:03:49,403 INFO 3952 [egg-security] use xframe middleware
+2018-03-19 11:03:49,403 INFO 3952 [egg-security] use dta middleware
+2018-03-19 11:03:49,403 INFO 3952 [egg-security] compose 7 middlewares into one security middleware
+2018-03-19 11:03:49,412 INFO 3952 [egg-mongoose] starting...
+2018-03-19 11:03:49,425 INFO 3952 [egg-mongoose] mongodb://127.0.0.1/fontStudy connected successfully
+2018-03-19 11:03:49,425 INFO 3952 [egg-mongoose] instance[0] start successfully
+2018-03-19 11:03:49,427 INFO 3952 [egg-watcher:app] watcher start success
+2018-03-19 11:03:55,960 INFO 3952 [egg-view-nunjucks] loading templates from ["/Users/Jason/Desktop/fontClassification/app/view"]
+2018-03-19 11:05:36,823 INFO 3996 [egg:logger] init all loggers with options: {"dir":"/Users/Jason/Desktop/fontClassification/logs/fontclassification","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"fontclassification-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-03-19 11:05:36,861 INFO 3996 [egg-schedule]: register schedule /Users/Jason/Desktop/fontClassification/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-03-19 11:05:36,861 INFO 3996 [egg-schedule]: register schedule /Users/Jason/Desktop/fontClassification/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-03-19 11:05:37,031 INFO 3996 [egg-mongoose] connecting mongodb://127.0.0.1/fontStudy
+2018-03-19 11:05:37,070 INFO 3996 [egg-static] starting static serve /public/ -> /Users/Jason/Desktop/fontClassification/app/public
+2018-03-19 11:05:37,072 INFO 3996 [egg-security] use csrf middleware
+2018-03-19 11:05:37,073 INFO 3996 [egg-security] use methodnoallow middleware
+2018-03-19 11:05:37,073 INFO 3996 [egg-security] use noopen middleware
+2018-03-19 11:05:37,073 INFO 3996 [egg-security] use nosniff middleware
+2018-03-19 11:05:37,073 INFO 3996 [egg-security] use xssProtection middleware
+2018-03-19 11:05:37,074 INFO 3996 [egg-security] use xframe middleware
+2018-03-19 11:05:37,074 INFO 3996 [egg-security] use dta middleware
+2018-03-19 11:05:37,074 INFO 3996 [egg-security] compose 7 middlewares into one security middleware
+2018-03-19 11:05:37,083 INFO 3996 [egg-mongoose] starting...
+2018-03-19 11:05:37,099 INFO 3996 [egg-mongoose] mongodb://127.0.0.1/fontStudy connected successfully
+2018-03-19 11:05:37,099 INFO 3996 [egg-mongoose] instance[0] start successfully
+2018-03-19 11:05:37,102 INFO 3996 [egg-watcher:app] watcher start success
+2018-03-19 11:05:40,392 INFO 3996 [egg-view-nunjucks] loading templates from ["/Users/Jason/Desktop/fontClassification/app/view"]
+2018-03-19 11:05:57,289 INFO 4008 [egg:logger] init all loggers with options: {"dir":"/Users/Jason/Desktop/fontClassification/logs/fontclassification","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"fontclassification-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-03-19 11:05:57,322 INFO 4008 [egg-schedule]: register schedule /Users/Jason/Desktop/fontClassification/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-03-19 11:05:57,322 INFO 4008 [egg-schedule]: register schedule /Users/Jason/Desktop/fontClassification/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-03-19 11:05:57,487 INFO 4008 [egg-mongoose] connecting mongodb://127.0.0.1/fontStudy
+2018-03-19 11:05:57,516 INFO 4008 [egg-static] starting static serve /public/ -> /Users/Jason/Desktop/fontClassification/app/public
+2018-03-19 11:05:57,518 INFO 4008 [egg-security] use csrf middleware
+2018-03-19 11:05:57,519 INFO 4008 [egg-security] use methodnoallow middleware
+2018-03-19 11:05:57,519 INFO 4008 [egg-security] use noopen middleware
+2018-03-19 11:05:57,519 INFO 4008 [egg-security] use nosniff middleware
+2018-03-19 11:05:57,519 INFO 4008 [egg-security] use xssProtection middleware
+2018-03-19 11:05:57,520 INFO 4008 [egg-security] use xframe middleware
+2018-03-19 11:05:57,520 INFO 4008 [egg-security] use dta middleware
+2018-03-19 11:05:57,520 INFO 4008 [egg-security] compose 7 middlewares into one security middleware
+2018-03-19 11:05:57,532 INFO 4008 [egg-mongoose] starting...
+2018-03-19 11:05:57,544 INFO 4008 [egg-mongoose] mongodb://127.0.0.1/fontStudy connected successfully
+2018-03-19 11:05:57,544 INFO 4008 [egg-mongoose] instance[0] start successfully
+2018-03-19 11:05:57,546 INFO 4008 [egg-watcher:app] watcher start success
+2018-03-19 11:06:02,485 INFO 4008 [egg-view-nunjucks] loading templates from ["/Users/Jason/Desktop/fontClassification/app/view"]
+2018-03-19 11:06:24,138 INFO 4024 [egg:logger] init all loggers with options: {"dir":"/Users/Jason/Desktop/fontClassification/logs/fontclassification","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"fontclassification-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-03-19 11:06:24,175 INFO 4024 [egg-schedule]: register schedule /Users/Jason/Desktop/fontClassification/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-03-19 11:06:24,175 INFO 4024 [egg-schedule]: register schedule /Users/Jason/Desktop/fontClassification/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-03-19 11:06:24,355 INFO 4024 [egg-mongoose] connecting mongodb://127.0.0.1/fontStudy
+2018-03-19 11:06:24,391 INFO 4024 [egg-static] starting static serve /public/ -> /Users/Jason/Desktop/fontClassification/app/public
+2018-03-19 11:06:24,393 INFO 4024 [egg-security] use csrf middleware
+2018-03-19 11:06:24,393 INFO 4024 [egg-security] use methodnoallow middleware
+2018-03-19 11:06:24,394 INFO 4024 [egg-security] use noopen middleware
+2018-03-19 11:06:24,394 INFO 4024 [egg-security] use nosniff middleware
+2018-03-19 11:06:24,394 INFO 4024 [egg-security] use xssProtection middleware
+2018-03-19 11:06:24,394 INFO 4024 [egg-security] use xframe middleware
+2018-03-19 11:06:24,395 INFO 4024 [egg-security] use dta middleware
+2018-03-19 11:06:24,395 INFO 4024 [egg-security] compose 7 middlewares into one security middleware
+2018-03-19 11:06:24,404 INFO 4024 [egg-mongoose] starting...
+2018-03-19 11:06:24,417 INFO 4024 [egg-mongoose] mongodb://127.0.0.1/fontStudy connected successfully
+2018-03-19 11:06:24,417 INFO 4024 [egg-mongoose] instance[0] start successfully
+2018-03-19 11:06:24,420 INFO 4024 [egg-watcher:app] watcher start success
+2018-03-19 11:06:38,536 INFO 4037 [egg:logger] init all loggers with options: {"dir":"/Users/Jason/Desktop/fontClassification/logs/fontclassification","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"fontclassification-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-03-19 11:06:38,576 INFO 4037 [egg-schedule]: register schedule /Users/Jason/Desktop/fontClassification/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-03-19 11:06:38,576 INFO 4037 [egg-schedule]: register schedule /Users/Jason/Desktop/fontClassification/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-03-19 11:06:38,751 INFO 4037 [egg-mongoose] connecting mongodb://127.0.0.1/fontStudy
+2018-03-19 11:06:38,784 INFO 4037 [egg-static] starting static serve /public/ -> /Users/Jason/Desktop/fontClassification/app/public
+2018-03-19 11:06:38,786 INFO 4037 [egg-security] use csrf middleware
+2018-03-19 11:06:38,787 INFO 4037 [egg-security] use methodnoallow middleware
+2018-03-19 11:06:38,787 INFO 4037 [egg-security] use noopen middleware
+2018-03-19 11:06:38,787 INFO 4037 [egg-security] use nosniff middleware
+2018-03-19 11:06:38,788 INFO 4037 [egg-security] use xssProtection middleware
+2018-03-19 11:06:38,788 INFO 4037 [egg-security] use xframe middleware
+2018-03-19 11:06:38,788 INFO 4037 [egg-security] use dta middleware
+2018-03-19 11:06:38,788 INFO 4037 [egg-security] compose 7 middlewares into one security middleware
+2018-03-19 11:06:38,799 INFO 4037 [egg-mongoose] starting...
+2018-03-19 11:06:38,811 INFO 4037 [egg-mongoose] mongodb://127.0.0.1/fontStudy connected successfully
+2018-03-19 11:06:38,811 INFO 4037 [egg-mongoose] instance[0] start successfully
+2018-03-19 11:06:38,813 INFO 4037 [egg-watcher:app] watcher start success
+2018-03-19 11:06:45,397 INFO 4037 [egg-view-nunjucks] loading templates from ["/Users/Jason/Desktop/fontClassification/app/view"]
+2018-03-19 11:07:23,244 INFO 4056 [egg:logger] init all loggers with options: {"dir":"/Users/Jason/Desktop/fontClassification/logs/fontclassification","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"fontclassification-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-03-19 11:07:23,281 INFO 4056 [egg-schedule]: register schedule /Users/Jason/Desktop/fontClassification/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-03-19 11:07:23,281 INFO 4056 [egg-schedule]: register schedule /Users/Jason/Desktop/fontClassification/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-03-19 11:07:23,451 INFO 4056 [egg-mongoose] connecting mongodb://127.0.0.1/fontStudy
+2018-03-19 11:07:23,484 INFO 4056 [egg-static] starting static serve /public/ -> /Users/Jason/Desktop/fontClassification/app/public
+2018-03-19 11:07:23,486 INFO 4056 [egg-security] use csrf middleware
+2018-03-19 11:07:23,486 INFO 4056 [egg-security] use methodnoallow middleware
+2018-03-19 11:07:23,487 INFO 4056 [egg-security] use noopen middleware
+2018-03-19 11:07:23,487 INFO 4056 [egg-security] use nosniff middleware
+2018-03-19 11:07:23,487 INFO 4056 [egg-security] use xssProtection middleware
+2018-03-19 11:07:23,487 INFO 4056 [egg-security] use xframe middleware
+2018-03-19 11:07:23,487 INFO 4056 [egg-security] use dta middleware
+2018-03-19 11:07:23,487 INFO 4056 [egg-security] compose 7 middlewares into one security middleware
+2018-03-19 11:07:23,497 INFO 4056 [egg-mongoose] starting...
+2018-03-19 11:07:23,509 INFO 4056 [egg-mongoose] mongodb://127.0.0.1/fontStudy connected successfully
+2018-03-19 11:07:23,510 INFO 4056 [egg-mongoose] instance[0] start successfully
+2018-03-19 11:07:23,512 INFO 4056 [egg-watcher:app] watcher start success
+2018-03-19 11:27:26,597 INFO 4056 [egg-view-nunjucks] loading templates from ["/Users/Jason/Desktop/fontClassification/app/view"]

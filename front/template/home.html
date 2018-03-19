@@ -1,0 +1,20 @@
+<% const { files, options } = htmlWebpackPlugin; %>
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+  <title>{{ title }}</title>
+  <script src="/public/js/vendor/util.js"></script>
+  <script src="/public/js/vendor/react.js"></script>
+  <% files.css.forEach(function(cssSrc) { %>
+    <link rel="stylesheet" href="<%= cssSrc %>" />
+  <% }) %>
+</head>
+<body>
+  <div id="app"></div>
+  <% files.js.forEach(function(jsSrc) { %>
+    <script src="<%= jsSrc %>"></script>
+  <% }) %>
+</body>
+</html>
