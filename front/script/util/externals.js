@@ -4,6 +4,7 @@ const vendorModules = {
   moment: 'externals.moment',
   axios: 'externals.axios',
   co: 'externals.co',
+  classnames: 'externals.classnames',
 };
 
 module.exports = vendorModules;

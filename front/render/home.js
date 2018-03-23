@@ -1,3 +1,4 @@
+import React from 'react';
 import dva from 'dva';
 import HomeEntry from './entry/home';
 
@@ -13,7 +14,7 @@ const app = dva({
 app.model(require('./model/main'));
 
 // 第4步：设置路由or组件
-app.router(HomeEntry);
+app.router(() => (<HomeEntry />));
 
 // 第5步：挂载并启动
 app.start('#app');

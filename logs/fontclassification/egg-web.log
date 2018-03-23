@@ -137,3 +137,21 @@
 2018-03-19 11:07:23,510 INFO 4056 [egg-mongoose] instance[0] start successfully
 2018-03-19 11:07:23,512 INFO 4056 [egg-watcher:app] watcher start success
 2018-03-19 11:27:26,597 INFO 4056 [egg-view-nunjucks] loading templates from ["/Users/Jason/Desktop/fontClassification/app/view"]
+2018-03-23 13:55:49,476 INFO 7973 [egg:logger] init all loggers with options: {"dir":"/Users/Jason/Git&Project/fontClassification/logs/fontclassification","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"fontclassification-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-03-23 13:55:49,518 INFO 7973 [egg-schedule]: register schedule /Users/Jason/Git&Project/fontClassification/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-03-23 13:55:49,518 INFO 7973 [egg-schedule]: register schedule /Users/Jason/Git&Project/fontClassification/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-03-23 13:55:49,777 INFO 7973 [egg-mongoose] connecting mongodb://127.0.0.1/fontStudy
+2018-03-23 13:55:49,825 INFO 7973 [egg-static] starting static serve /public/ -> /Users/Jason/Git&Project/fontClassification/app/public
+2018-03-23 13:55:49,827 INFO 7973 [egg-security] use csrf middleware
+2018-03-23 13:55:49,828 INFO 7973 [egg-security] use methodnoallow middleware
+2018-03-23 13:55:49,828 INFO 7973 [egg-security] use noopen middleware
+2018-03-23 13:55:49,829 INFO 7973 [egg-security] use nosniff middleware
+2018-03-23 13:55:49,829 INFO 7973 [egg-security] use xssProtection middleware
+2018-03-23 13:55:49,830 INFO 7973 [egg-security] use xframe middleware
+2018-03-23 13:55:49,831 INFO 7973 [egg-security] use dta middleware
+2018-03-23 13:55:49,831 INFO 7973 [egg-security] compose 7 middlewares into one security middleware
+2018-03-23 13:55:49,841 INFO 7973 [egg-mongoose] starting...
+2018-03-23 13:55:49,854 INFO 7973 [egg-mongoose] mongodb://127.0.0.1/fontStudy connected successfully
+2018-03-23 13:55:49,854 INFO 7973 [egg-mongoose] instance[0] start successfully
+2018-03-23 13:55:49,856 INFO 7973 [egg-watcher:app] watcher start success
+2018-03-23 14:12:43,426 INFO 7973 [egg-view-nunjucks] loading templates from ["/Users/Jason/Git&Project/fontClassification/app/view"]

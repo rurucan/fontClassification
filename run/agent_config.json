@@ -79,8 +79,8 @@
     "watcher": {
       "type": "development",
       "eventSources": {
-        "default": "/Users/Jason/Desktop/fontClassification/node_modules/egg-watcher/lib/event-sources/default",
-        "development": "/Users/Jason/Desktop/fontClassification/node_modules/egg-watcher/lib/event-sources/development"
+        "default": "/Users/Jason/Git&Project/fontClassification/node_modules/egg-watcher/lib/event-sources/default",
+        "development": "/Users/Jason/Git&Project/fontClassification/node_modules/egg-watcher/lib/event-sources/development"
       }
     },
     "multipart": {
@@ -104,7 +104,7 @@
     "customLogger": {
       "scheduleLogger": {
         "consoleLevel": "NONE",
-        "file": "/Users/Jason/Desktop/fontClassification/logs/fontclassification/egg-schedule.log"
+        "file": "/Users/Jason/Git&Project/fontClassification/logs/fontclassification/egg-schedule.log"
       }
     },
     "logrotator": {
@@ -118,14 +118,14 @@
     },
     "static": {
       "prefix": "/public/",
-      "dir": "/Users/Jason/Desktop/fontClassification/app/public",
+      "dir": "/Users/Jason/Git&Project/fontClassification/app/public",
       "dynamic": true,
       "preload": false,
       "buffer": false,
       "maxFiles": 1000
     },
     "view": {
-      "root": "/Users/Jason/Desktop/fontClassification/app/view",
+      "root": "/Users/Jason/Git&Project/fontClassification/app/view",
       "cache": false,
       "defaultExtension": ".nj",
       "defaultViewEngine": "nunjucks",
@@ -192,6 +192,7 @@
         "babel-eslint": "^8.2.2",
         "babel-loader": "^7.1.4",
         "babel-plugin-add-module-exports": "^0.2.1",
+        "babel-plugin-import": "^1.6.7",
         "babel-plugin-transform-runtime": "^6.23.0",
         "babel-preset-es2015": "^6.24.1",
         "babel-preset-react": "^6.24.1",
@@ -219,9 +220,9 @@
         "webpack": "^3.11.0"
       }
     },
-    "baseDir": "/Users/Jason/Desktop/fontClassification",
+    "baseDir": "/Users/Jason/Git&Project/fontClassification",
     "HOME": "/Users/Jason",
-    "rundir": "/Users/Jason/Desktop/fontClassification/run",
+    "rundir": "/Users/Jason/Git&Project/fontClassification/run",
     "dump": {
       "ignore": "<Set>"
     },
@@ -251,7 +252,7 @@
       }
     },
     "logger": {
-      "dir": "/Users/Jason/Desktop/fontClassification/logs/fontclassification",
+      "dir": "/Users/Jason/Git&Project/fontClassification/logs/fontclassification",
       "encoding": "utf8",
       "env": "local",
       "level": "INFO",
@@ -330,8 +331,8 @@
       "dependencies": [],
       "optionalDependencies": [],
       "env": [],
-      "from": "/Users/Jason/Desktop/fontClassification/node_modules/egg/config/plugin.js",
-      "path": "/Users/Jason/Desktop/fontClassification/node_modules/egg-session",
+      "from": "/Users/Jason/Git&Project/fontClassification/node_modules/egg/config/plugin.js",
+      "path": "/Users/Jason/Git&Project/fontClassification/node_modules/egg-session",
       "version": "3.1.0"
     },
     "security": {
@@ -343,8 +344,8 @@
         "session"
       ],
       "env": [],
-      "from": "/Users/Jason/Desktop/fontClassification/node_modules/egg/config/plugin.js",
-      "path": "/Users/Jason/Desktop/fontClassification/node_modules/egg-security",
+      "from": "/Users/Jason/Git&Project/fontClassification/node_modules/egg/config/plugin.js",
+      "path": "/Users/Jason/Git&Project/fontClassification/node_modules/egg-security",
       "version": "2.1.0"
     },
     "jsonp": {
@@ -356,8 +357,8 @@
         "security"
       ],
       "env": [],
-      "from": "/Users/Jason/Desktop/fontClassification/node_modules/egg/config/plugin.js",
-      "path": "/Users/Jason/Desktop/fontClassification/node_modules/egg-jsonp",
+      "from": "/Users/Jason/Git&Project/fontClassification/node_modules/egg/config/plugin.js",
+      "path": "/Users/Jason/Git&Project/fontClassification/node_modules/egg-jsonp",
       "version": "2.0.0"
     },
     "onerror": {
@@ -369,8 +370,8 @@
         "jsonp"
       ],
       "env": [],
-      "from": "/Users/Jason/Desktop/fontClassification/node_modules/egg/config/plugin.js",
-      "path": "/Users/Jason/Desktop/fontClassification/node_modules/egg-onerror",
+      "from": "/Users/Jason/Git&Project/fontClassification/node_modules/egg/config/plugin.js",
+      "path": "/Users/Jason/Git&Project/fontClassification/node_modules/egg-onerror",
       "version": "2.0.0"
     },
     "i18n": {
@@ -380,8 +381,8 @@
       "dependencies": [],
       "optionalDependencies": [],
       "env": [],
-      "from": "/Users/Jason/Desktop/fontClassification/node_modules/egg/config/plugin.js",
-      "path": "/Users/Jason/Desktop/fontClassification/node_modules/egg-i18n",
+      "from": "/Users/Jason/Git&Project/fontClassification/node_modules/egg/config/plugin.js",
+      "path": "/Users/Jason/Git&Project/fontClassification/node_modules/egg-i18n",
       "version": "2.0.0"
     },
     "watcher": {
@@ -391,8 +392,8 @@
       "dependencies": [],
       "optionalDependencies": [],
       "env": [],
-      "from": "/Users/Jason/Desktop/fontClassification/node_modules/egg/config/plugin.js",
-      "path": "/Users/Jason/Desktop/fontClassification/node_modules/egg-watcher",
+      "from": "/Users/Jason/Git&Project/fontClassification/node_modules/egg/config/plugin.js",
+      "path": "/Users/Jason/Git&Project/fontClassification/node_modules/egg-watcher",
       "version": "3.0.0"
     },
     "multipart": {
@@ -402,8 +403,8 @@
       "dependencies": [],
       "optionalDependencies": [],
       "env": [],
-      "from": "/Users/Jason/Desktop/fontClassification/node_modules/egg/config/plugin.js",
-      "path": "/Users/Jason/Desktop/fontClassification/node_modules/egg-multipart",
+      "from": "/Users/Jason/Git&Project/fontClassification/node_modules/egg/config/plugin.js",
+      "path": "/Users/Jason/Git&Project/fontClassification/node_modules/egg-multipart",
       "version": "2.0.0"
     },
     "development": {
@@ -417,8 +418,8 @@
       "env": [
         "local"
       ],
-      "from": "/Users/Jason/Desktop/fontClassification/node_modules/egg/config/plugin.js",
-      "path": "/Users/Jason/Desktop/fontClassification/node_modules/egg-development",
+      "from": "/Users/Jason/Git&Project/fontClassification/node_modules/egg/config/plugin.js",
+      "path": "/Users/Jason/Git&Project/fontClassification/node_modules/egg-development",
       "version": "2.2.0"
     },
     "schedule": {
@@ -428,8 +429,8 @@
       "dependencies": [],
       "optionalDependencies": [],
       "env": [],
-      "from": "/Users/Jason/Desktop/fontClassification/node_modules/egg/config/plugin.js",
-      "path": "/Users/Jason/Desktop/fontClassification/node_modules/egg-schedule",
+      "from": "/Users/Jason/Git&Project/fontClassification/node_modules/egg/config/plugin.js",
+      "path": "/Users/Jason/Git&Project/fontClassification/node_modules/egg-schedule",
       "version": "3.3.0"
     },
     "logrotator": {
@@ -441,8 +442,8 @@
       ],
       "optionalDependencies": [],
       "env": [],
-      "from": "/Users/Jason/Desktop/fontClassification/node_modules/egg/config/plugin.js",
-      "path": "/Users/Jason/Desktop/fontClassification/node_modules/egg-logrotator",
+      "from": "/Users/Jason/Git&Project/fontClassification/node_modules/egg/config/plugin.js",
+      "path": "/Users/Jason/Git&Project/fontClassification/node_modules/egg-logrotator",
       "version": "3.0.2"
     },
     "static": {
@@ -452,8 +453,8 @@
       "dependencies": [],
       "optionalDependencies": [],
       "env": [],
-      "from": "/Users/Jason/Desktop/fontClassification/node_modules/egg/config/plugin.js",
-      "path": "/Users/Jason/Desktop/fontClassification/node_modules/egg-static",
+      "from": "/Users/Jason/Git&Project/fontClassification/node_modules/egg/config/plugin.js",
+      "path": "/Users/Jason/Git&Project/fontClassification/node_modules/egg-static",
       "version": "2.1.0"
     },
     "view": {
@@ -463,8 +464,8 @@
       "dependencies": [],
       "optionalDependencies": [],
       "env": [],
-      "from": "/Users/Jason/Desktop/fontClassification/node_modules/egg/config/plugin.js",
-      "path": "/Users/Jason/Desktop/fontClassification/node_modules/egg-view",
+      "from": "/Users/Jason/Git&Project/fontClassification/node_modules/egg/config/plugin.js",
+      "path": "/Users/Jason/Git&Project/fontClassification/node_modules/egg-view",
       "version": "2.1.0"
     },
     "mongoose": {
@@ -474,8 +475,8 @@
       "dependencies": [],
       "optionalDependencies": [],
       "env": [],
-      "from": "/Users/Jason/Desktop/fontClassification/config/plugin.js",
-      "path": "/Users/Jason/Desktop/fontClassification/node_modules/egg-mongoose",
+      "from": "/Users/Jason/Git&Project/fontClassification/config/plugin.js",
+      "path": "/Users/Jason/Git&Project/fontClassification/node_modules/egg-mongoose",
       "version": "2.2.0"
     },
     "nunjucks": {
@@ -488,8 +489,8 @@
       ],
       "optionalDependencies": [],
       "env": [],
-      "from": "/Users/Jason/Desktop/fontClassification/config/plugin.js",
-      "path": "/Users/Jason/Desktop/fontClassification/node_modules/egg-view-nunjucks",
+      "from": "/Users/Jason/Git&Project/fontClassification/config/plugin.js",
+      "path": "/Users/Jason/Git&Project/fontClassification/node_modules/egg-view-nunjucks",
       "version": "2.1.6"
     }
   }
