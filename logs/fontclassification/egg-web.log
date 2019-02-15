@@ -155,3 +155,21 @@
 2018-03-23 13:55:49,854 INFO 7973 [egg-mongoose] instance[0] start successfully
 2018-03-23 13:55:49,856 INFO 7973 [egg-watcher:app] watcher start success
 2018-03-23 14:12:43,426 INFO 7973 [egg-view-nunjucks] loading templates from ["/Users/Jason/Git&Project/fontClassification/app/view"]
+2018-03-23 20:24:06,185 INFO 5883 [egg:logger] init all loggers with options: {"dir":"/Users/horo/Desktop/fontClassification/logs/fontclassification","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"fontclassification-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-03-23 20:24:06,221 INFO 5883 [egg-schedule]: register schedule /Users/horo/Desktop/fontClassification/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-03-23 20:24:06,221 INFO 5883 [egg-schedule]: register schedule /Users/horo/Desktop/fontClassification/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-03-23 20:24:06,392 INFO 5883 [egg-mongoose] connecting mongodb://127.0.0.1/fontStudy
+2018-03-23 20:24:06,438 INFO 5883 [egg-static] starting static serve /public/ -> /Users/horo/Desktop/fontClassification/app/public
+2018-03-23 20:24:06,440 INFO 5883 [egg-security] use csrf middleware
+2018-03-23 20:24:06,441 INFO 5883 [egg-security] use methodnoallow middleware
+2018-03-23 20:24:06,441 INFO 5883 [egg-security] use noopen middleware
+2018-03-23 20:24:06,441 INFO 5883 [egg-security] use nosniff middleware
+2018-03-23 20:24:06,441 INFO 5883 [egg-security] use xssProtection middleware
+2018-03-23 20:24:06,442 INFO 5883 [egg-security] use xframe middleware
+2018-03-23 20:24:06,442 INFO 5883 [egg-security] use dta middleware
+2018-03-23 20:24:06,442 INFO 5883 [egg-security] compose 7 middlewares into one security middleware
+2018-03-23 20:24:06,455 INFO 5883 [egg-mongoose] starting...
+2018-03-23 20:24:06,468 INFO 5883 [egg-mongoose] mongodb://127.0.0.1/fontStudy connected successfully
+2018-03-23 20:24:06,468 INFO 5883 [egg-mongoose] instance[0] start successfully
+2018-03-23 20:24:06,470 INFO 5883 [egg-watcher:app] watcher start success
+2018-03-23 20:31:44,418 INFO 5883 [egg-view-nunjucks] loading templates from ["/Users/horo/Desktop/fontClassification/app/view"]

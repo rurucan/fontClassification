@@ -1,305 +1,298 @@
 {
-  "keys": "/Users/Jason/Git&Project/fontClassification/config/config.default.js",
-  "middleware": "/Users/Jason/Git&Project/fontClassification/config/config.default.js",
+  "keys": "/Users/horo/Desktop/fontClassification/config/config.default.js",
+  "middleware": "/Users/horo/Desktop/fontClassification/config/config.default.js",
   "cluster": {
     "listen": {
-      "hostname": "/Users/Jason/Git&Project/fontClassification/config/config.default.js",
-      "path": "/Users/Jason/Git&Project/fontClassification/node_modules/egg/config/config.default.js",
-      "port": "/Users/Jason/Git&Project/fontClassification/node_modules/egg/config/config.default.js"
+      "hostname": "/Users/horo/Desktop/fontClassification/config/config.default.js",
+      "path": "/Users/horo/Desktop/fontClassification/node_modules/egg/config/config.default.js",
+      "port": "/Users/horo/Desktop/fontClassification/node_modules/egg/config/config.default.js"
     }
   },
   "mongoose": {
-    "url": "/Users/Jason/Git&Project/fontClassification/config/config.default.js",
-    "options": "/Users/Jason/Git&Project/fontClassification/config/config.default.js",
-    "loadModel": "/Users/Jason/Git&Project/fontClassification/node_modules/egg-mongoose/config/config.default.js",
-    "app": "/Users/Jason/Git&Project/fontClassification/node_modules/egg-mongoose/config/config.default.js",
-    "agent": "/Users/Jason/Git&Project/fontClassification/node_modules/egg-mongoose/config/config.default.js"
+    "url": "/Users/horo/Desktop/fontClassification/config/config.default.js",
+    "options": "/Users/horo/Desktop/fontClassification/config/config.default.js",
+    "loadModel": "/Users/horo/Desktop/fontClassification/node_modules/egg-mongoose/config/config.default.js",
+    "app": "/Users/horo/Desktop/fontClassification/node_modules/egg-mongoose/config/config.default.js",
+    "agent": "/Users/horo/Desktop/fontClassification/node_modules/egg-mongoose/config/config.default.js"
   },
   "view": {
-    "defaultViewEngine": "/Users/Jason/Git&Project/fontClassification/config/config.default.js",
-    "defaultExtension": "/Users/Jason/Git&Project/fontClassification/config/config.default.js",
+    "defaultViewEngine": "/Users/horo/Desktop/fontClassification/config/config.default.js",
+    "defaultExtension": "/Users/horo/Desktop/fontClassification/config/config.default.js",
     "mapping": {
-      ".nj": "/Users/Jason/Git&Project/fontClassification/config/config.default.js",
-      ".html": "/Users/Jason/Git&Project/fontClassification/config/config.default.js"
+      ".nj": "/Users/horo/Desktop/fontClassification/config/config.default.js",
+      ".html": "/Users/horo/Desktop/fontClassification/config/config.default.js"
     },
-    "root": "/Users/Jason/Git&Project/fontClassification/node_modules/egg-view/config/config.default.js",
-    "cache": "/Users/Jason/Git&Project/fontClassification/node_modules/egg-view/config/config.local.js"
+    "root": "/Users/horo/Desktop/fontClassification/node_modules/egg-view/config/config.default.js",
+    "cache": "/Users/horo/Desktop/fontClassification/node_modules/egg-view/config/config.default.js"
   },
   "session": {
-    "maxAge": "/Users/Jason/Git&Project/fontClassification/node_modules/egg-session/config/config.default.js",
-    "key": "/Users/Jason/Git&Project/fontClassification/node_modules/egg-session/config/config.default.js",
-    "httpOnly": "/Users/Jason/Git&Project/fontClassification/node_modules/egg-session/config/config.default.js",
-    "encrypt": "/Users/Jason/Git&Project/fontClassification/node_modules/egg-session/config/config.default.js"
+    "maxAge": "/Users/horo/Desktop/fontClassification/node_modules/egg-session/config/config.default.js",
+    "key": "/Users/horo/Desktop/fontClassification/node_modules/egg-session/config/config.default.js",
+    "httpOnly": "/Users/horo/Desktop/fontClassification/node_modules/egg-session/config/config.default.js",
+    "encrypt": "/Users/horo/Desktop/fontClassification/node_modules/egg-session/config/config.default.js"
   },
   "security": {
-    "domainWhiteList": "/Users/Jason/Git&Project/fontClassification/node_modules/egg-security/config/config.default.js",
-    "protocolWhiteList": "/Users/Jason/Git&Project/fontClassification/node_modules/egg-security/config/config.default.js",
-    "defaultMiddleware": "/Users/Jason/Git&Project/fontClassification/node_modules/egg-security/config/config.default.js",
+    "domainWhiteList": "/Users/horo/Desktop/fontClassification/node_modules/egg-security/config/config.default.js",
+    "protocolWhiteList": "/Users/horo/Desktop/fontClassification/node_modules/egg-security/config/config.default.js",
+    "defaultMiddleware": "/Users/horo/Desktop/fontClassification/node_modules/egg-security/config/config.default.js",
     "csrf": {
-      "enable": "/Users/Jason/Git&Project/fontClassification/node_modules/egg-security/config/config.default.js",
-      "useSession": "/Users/Jason/Git&Project/fontClassification/node_modules/egg-security/config/config.default.js",
-      "ignoreJSON": "/Users/Jason/Git&Project/fontClassification/node_modules/egg-security/config/config.default.js",
-      "cookieName": "/Users/Jason/Git&Project/fontClassification/node_modules/egg-security/config/config.default.js",
-      "sessionName": "/Users/Jason/Git&Project/fontClassification/node_modules/egg-security/config/config.default.js",
-      "headerName": "/Users/Jason/Git&Project/fontClassification/node_modules/egg-security/config/config.default.js",
-      "bodyName": "/Users/Jason/Git&Project/fontClassification/node_modules/egg-security/config/config.default.js",
-      "queryName": "/Users/Jason/Git&Project/fontClassification/node_modules/egg-security/config/config.default.js"
+      "enable": "/Users/horo/Desktop/fontClassification/node_modules/egg-security/config/config.default.js",
+      "useSession": "/Users/horo/Desktop/fontClassification/node_modules/egg-security/config/config.default.js",
+      "ignoreJSON": "/Users/horo/Desktop/fontClassification/node_modules/egg-security/config/config.default.js",
+      "cookieName": "/Users/horo/Desktop/fontClassification/node_modules/egg-security/config/config.default.js",
+      "sessionName": "/Users/horo/Desktop/fontClassification/node_modules/egg-security/config/config.default.js",
+      "headerName": "/Users/horo/Desktop/fontClassification/node_modules/egg-security/config/config.default.js",
+      "bodyName": "/Users/horo/Desktop/fontClassification/node_modules/egg-security/config/config.default.js",
+      "queryName": "/Users/horo/Desktop/fontClassification/node_modules/egg-security/config/config.default.js"
     },
     "xframe": {
-      "enable": "/Users/Jason/Git&Project/fontClassification/node_modules/egg-security/config/config.default.js",
-      "value": "/Users/Jason/Git&Project/fontClassification/node_modules/egg-security/config/config.default.js"
+      "enable": "/Users/horo/Desktop/fontClassification/node_modules/egg-security/config/config.default.js",
+      "value": "/Users/horo/Desktop/fontClassification/node_modules/egg-security/config/config.default.js"
     },
     "hsts": {
-      "enable": "/Users/Jason/Git&Project/fontClassification/node_modules/egg-security/config/config.local.js",
-      "maxAge": "/Users/Jason/Git&Project/fontClassification/node_modules/egg-security/config/config.default.js",
-      "includeSubdomains": "/Users/Jason/Git&Project/fontClassification/node_modules/egg-security/config/config.default.js"
+      "enable": "/Users/horo/Desktop/fontClassification/node_modules/egg-security/config/config.default.js",
+      "maxAge": "/Users/horo/Desktop/fontClassification/node_modules/egg-security/config/config.default.js",
+      "includeSubdomains": "/Users/horo/Desktop/fontClassification/node_modules/egg-security/config/config.default.js"
     },
     "dta": {
-      "enable": "/Users/Jason/Git&Project/fontClassification/node_modules/egg-security/config/config.default.js"
+      "enable": "/Users/horo/Desktop/fontClassification/node_modules/egg-security/config/config.default.js"
     },
     "methodnoallow": {
-      "enable": "/Users/Jason/Git&Project/fontClassification/node_modules/egg-security/config/config.default.js"
+      "enable": "/Users/horo/Desktop/fontClassification/node_modules/egg-security/config/config.default.js"
     },
     "noopen": {
-      "enable": "/Users/Jason/Git&Project/fontClassification/node_modules/egg-security/config/config.default.js"
+      "enable": "/Users/horo/Desktop/fontClassification/node_modules/egg-security/config/config.default.js"
     },
     "nosniff": {
-      "enable": "/Users/Jason/Git&Project/fontClassification/node_modules/egg-security/config/config.default.js"
+      "enable": "/Users/horo/Desktop/fontClassification/node_modules/egg-security/config/config.default.js"
     },
     "referrerPolicy": {
-      "enable": "/Users/Jason/Git&Project/fontClassification/node_modules/egg-security/config/config.default.js",
-      "value": "/Users/Jason/Git&Project/fontClassification/node_modules/egg-security/config/config.default.js"
+      "enable": "/Users/horo/Desktop/fontClassification/node_modules/egg-security/config/config.default.js",
+      "value": "/Users/horo/Desktop/fontClassification/node_modules/egg-security/config/config.default.js"
     },
     "xssProtection": {
-      "enable": "/Users/Jason/Git&Project/fontClassification/node_modules/egg-security/config/config.default.js",
-      "value": "/Users/Jason/Git&Project/fontClassification/node_modules/egg-security/config/config.default.js"
+      "enable": "/Users/horo/Desktop/fontClassification/node_modules/egg-security/config/config.default.js",
+      "value": "/Users/horo/Desktop/fontClassification/node_modules/egg-security/config/config.default.js"
     },
     "csp": {
-      "enable": "/Users/Jason/Git&Project/fontClassification/node_modules/egg-security/config/config.default.js",
-      "policy": "/Users/Jason/Git&Project/fontClassification/node_modules/egg-security/config/config.default.js"
+      "enable": "/Users/horo/Desktop/fontClassification/node_modules/egg-security/config/config.default.js",
+      "policy": "/Users/horo/Desktop/fontClassification/node_modules/egg-security/config/config.default.js"
     }
   },
   "helper": {
-    "shtml": "/Users/Jason/Git&Project/fontClassification/node_modules/egg-security/config/config.default.js"
+    "shtml": "/Users/horo/Desktop/fontClassification/node_modules/egg-security/config/config.default.js"
   },
   "jsonp": {
-    "limit": "/Users/Jason/Git&Project/fontClassification/node_modules/egg-jsonp/config/config.default.js",
-    "callback": "/Users/Jason/Git&Project/fontClassification/node_modules/egg-jsonp/config/config.default.js",
-    "csrf": "/Users/Jason/Git&Project/fontClassification/node_modules/egg-jsonp/config/config.default.js"
+    "limit": "/Users/horo/Desktop/fontClassification/node_modules/egg-jsonp/config/config.default.js",
+    "callback": "/Users/horo/Desktop/fontClassification/node_modules/egg-jsonp/config/config.default.js",
+    "csrf": "/Users/horo/Desktop/fontClassification/node_modules/egg-jsonp/config/config.default.js"
   },
   "onerror": {
-    "errorPageUrl": "/Users/Jason/Git&Project/fontClassification/node_modules/egg-onerror/config/config.default.js",
-    "appErrorFilter": "/Users/Jason/Git&Project/fontClassification/node_modules/egg-onerror/config/config.default.js"
+    "errorPageUrl": "/Users/horo/Desktop/fontClassification/node_modules/egg-onerror/config/config.default.js",
+    "appErrorFilter": "/Users/horo/Desktop/fontClassification/node_modules/egg-onerror/config/config.default.js"
   },
   "i18n": {
-    "defaultLocale": "/Users/Jason/Git&Project/fontClassification/node_modules/egg-i18n/config/config.default.js",
-    "dirs": "/Users/Jason/Git&Project/fontClassification/node_modules/egg-i18n/config/config.default.js",
-    "queryField": "/Users/Jason/Git&Project/fontClassification/node_modules/egg-i18n/config/config.default.js",
-    "cookieField": "/Users/Jason/Git&Project/fontClassification/node_modules/egg-i18n/config/config.default.js",
-    "cookieMaxAge": "/Users/Jason/Git&Project/fontClassification/node_modules/egg-i18n/config/config.default.js"
+    "defaultLocale": "/Users/horo/Desktop/fontClassification/node_modules/egg-i18n/config/config.default.js",
+    "dirs": "/Users/horo/Desktop/fontClassification/node_modules/egg-i18n/config/config.default.js",
+    "queryField": "/Users/horo/Desktop/fontClassification/node_modules/egg-i18n/config/config.default.js",
+    "cookieField": "/Users/horo/Desktop/fontClassification/node_modules/egg-i18n/config/config.default.js",
+    "cookieMaxAge": "/Users/horo/Desktop/fontClassification/node_modules/egg-i18n/config/config.default.js"
   },
   "watcher": {
-    "type": "/Users/Jason/Git&Project/fontClassification/node_modules/egg-watcher/config/config.local.js",
+    "type": "/Users/horo/Desktop/fontClassification/node_modules/egg-watcher/config/config.default.js",
     "eventSources": {
-      "default": "/Users/Jason/Git&Project/fontClassification/node_modules/egg-watcher/config/config.default.js",
-      "development": "/Users/Jason/Git&Project/fontClassification/node_modules/egg-watcher/config/config.default.js"
+      "default": "/Users/horo/Desktop/fontClassification/node_modules/egg-watcher/config/config.default.js",
+      "development": "/Users/horo/Desktop/fontClassification/node_modules/egg-watcher/config/config.default.js"
     }
   },
   "multipart": {
-    "autoFields": "/Users/Jason/Git&Project/fontClassification/node_modules/egg-multipart/config/config.default.js",
-    "defaultCharset": "/Users/Jason/Git&Project/fontClassification/node_modules/egg-multipart/config/config.default.js",
-    "fieldNameSize": "/Users/Jason/Git&Project/fontClassification/node_modules/egg-multipart/config/config.default.js",
-    "fieldSize": "/Users/Jason/Git&Project/fontClassification/node_modules/egg-multipart/config/config.default.js",
-    "fields": "/Users/Jason/Git&Project/fontClassification/node_modules/egg-multipart/config/config.default.js",
-    "fileSize": "/Users/Jason/Git&Project/fontClassification/node_modules/egg-multipart/config/config.default.js",
-    "files": "/Users/Jason/Git&Project/fontClassification/node_modules/egg-multipart/config/config.default.js",
-    "fileExtensions": "/Users/Jason/Git&Project/fontClassification/node_modules/egg-multipart/config/config.default.js",
-    "whitelist": "/Users/Jason/Git&Project/fontClassification/node_modules/egg-multipart/config/config.default.js"
-  },
-  "development": {
-    "watchDirs": "/Users/Jason/Git&Project/fontClassification/node_modules/egg-development/config/config.default.js",
-    "ignoreDirs": "/Users/Jason/Git&Project/fontClassification/node_modules/egg-development/config/config.default.js",
-    "fastReady": "/Users/Jason/Git&Project/fontClassification/node_modules/egg-development/config/config.default.js",
-    "reloadOnDebug": "/Users/Jason/Git&Project/fontClassification/node_modules/egg-development/config/config.default.js",
-    "overrideDefault": "/Users/Jason/Git&Project/fontClassification/node_modules/egg-development/config/config.default.js"
+    "autoFields": "/Users/horo/Desktop/fontClassification/node_modules/egg-multipart/config/config.default.js",
+    "defaultCharset": "/Users/horo/Desktop/fontClassification/node_modules/egg-multipart/config/config.default.js",
+    "fieldNameSize": "/Users/horo/Desktop/fontClassification/node_modules/egg-multipart/config/config.default.js",
+    "fieldSize": "/Users/horo/Desktop/fontClassification/node_modules/egg-multipart/config/config.default.js",
+    "fields": "/Users/horo/Desktop/fontClassification/node_modules/egg-multipart/config/config.default.js",
+    "fileSize": "/Users/horo/Desktop/fontClassification/node_modules/egg-multipart/config/config.default.js",
+    "files": "/Users/horo/Desktop/fontClassification/node_modules/egg-multipart/config/config.default.js",
+    "fileExtensions": "/Users/horo/Desktop/fontClassification/node_modules/egg-multipart/config/config.default.js",
+    "whitelist": "/Users/horo/Desktop/fontClassification/node_modules/egg-multipart/config/config.default.js"
   },
   "customLogger": {
     "scheduleLogger": {
-      "consoleLevel": "/Users/Jason/Git&Project/fontClassification/node_modules/egg-schedule/config/config.default.js",
-      "file": "/Users/Jason/Git&Project/fontClassification/node_modules/egg-schedule/config/config.default.js"
+      "consoleLevel": "/Users/horo/Desktop/fontClassification/node_modules/egg-schedule/config/config.default.js",
+      "file": "/Users/horo/Desktop/fontClassification/node_modules/egg-schedule/config/config.default.js"
     }
   },
   "logrotator": {
-    "filesRotateByHour": "/Users/Jason/Git&Project/fontClassification/node_modules/egg-logrotator/config/config.default.js",
-    "hourDelimiter": "/Users/Jason/Git&Project/fontClassification/node_modules/egg-logrotator/config/config.default.js",
-    "filesRotateBySize": "/Users/Jason/Git&Project/fontClassification/node_modules/egg-logrotator/config/config.default.js",
-    "maxFileSize": "/Users/Jason/Git&Project/fontClassification/node_modules/egg-logrotator/config/config.default.js",
-    "maxFiles": "/Users/Jason/Git&Project/fontClassification/node_modules/egg-logrotator/config/config.default.js",
-    "rotateDuration": "/Users/Jason/Git&Project/fontClassification/node_modules/egg-logrotator/config/config.default.js",
-    "maxDays": "/Users/Jason/Git&Project/fontClassification/node_modules/egg-logrotator/config/config.default.js"
+    "filesRotateByHour": "/Users/horo/Desktop/fontClassification/node_modules/egg-logrotator/config/config.default.js",
+    "hourDelimiter": "/Users/horo/Desktop/fontClassification/node_modules/egg-logrotator/config/config.default.js",
+    "filesRotateBySize": "/Users/horo/Desktop/fontClassification/node_modules/egg-logrotator/config/config.default.js",
+    "maxFileSize": "/Users/horo/Desktop/fontClassification/node_modules/egg-logrotator/config/config.default.js",
+    "maxFiles": "/Users/horo/Desktop/fontClassification/node_modules/egg-logrotator/config/config.default.js",
+    "rotateDuration": "/Users/horo/Desktop/fontClassification/node_modules/egg-logrotator/config/config.default.js",
+    "maxDays": "/Users/horo/Desktop/fontClassification/node_modules/egg-logrotator/config/config.default.js"
   },
   "static": {
-    "prefix": "/Users/Jason/Git&Project/fontClassification/node_modules/egg-static/config/config.default.js",
-    "dir": "/Users/Jason/Git&Project/fontClassification/node_modules/egg-static/config/config.default.js",
-    "dynamic": "/Users/Jason/Git&Project/fontClassification/node_modules/egg-static/config/config.default.js",
-    "preload": "/Users/Jason/Git&Project/fontClassification/node_modules/egg-static/config/config.default.js",
-    "buffer": "/Users/Jason/Git&Project/fontClassification/node_modules/egg-static/config/config.default.js",
-    "maxFiles": "/Users/Jason/Git&Project/fontClassification/node_modules/egg-static/config/config.default.js"
+    "prefix": "/Users/horo/Desktop/fontClassification/node_modules/egg-static/config/config.default.js",
+    "dir": "/Users/horo/Desktop/fontClassification/node_modules/egg-static/config/config.default.js",
+    "dynamic": "/Users/horo/Desktop/fontClassification/node_modules/egg-static/config/config.default.js",
+    "preload": "/Users/horo/Desktop/fontClassification/node_modules/egg-static/config/config.default.js",
+    "buffer": "/Users/horo/Desktop/fontClassification/node_modules/egg-static/config/config.prod.js",
+    "maxFiles": "/Users/horo/Desktop/fontClassification/node_modules/egg-static/config/config.default.js",
+    "maxAge": "/Users/horo/Desktop/fontClassification/node_modules/egg-static/config/config.prod.js"
   },
   "nunjucks": {
-    "autoescape": "/Users/Jason/Git&Project/fontClassification/node_modules/egg-view-nunjucks/config/config.default.js",
-    "throwOnUndefined": "/Users/Jason/Git&Project/fontClassification/node_modules/egg-view-nunjucks/config/config.default.js",
-    "trimBlocks": "/Users/Jason/Git&Project/fontClassification/node_modules/egg-view-nunjucks/config/config.default.js",
-    "lstripBlocks": "/Users/Jason/Git&Project/fontClassification/node_modules/egg-view-nunjucks/config/config.default.js",
-    "cache": "/Users/Jason/Git&Project/fontClassification/node_modules/egg-view-nunjucks/config/config.local.js"
+    "autoescape": "/Users/horo/Desktop/fontClassification/node_modules/egg-view-nunjucks/config/config.default.js",
+    "throwOnUndefined": "/Users/horo/Desktop/fontClassification/node_modules/egg-view-nunjucks/config/config.default.js",
+    "trimBlocks": "/Users/horo/Desktop/fontClassification/node_modules/egg-view-nunjucks/config/config.default.js",
+    "lstripBlocks": "/Users/horo/Desktop/fontClassification/node_modules/egg-view-nunjucks/config/config.default.js",
+    "cache": "/Users/horo/Desktop/fontClassification/node_modules/egg-view-nunjucks/config/config.default.js"
   },
-  "env": "/Users/Jason/Git&Project/fontClassification/node_modules/egg/config/config.default.js",
-  "name": "/Users/Jason/Git&Project/fontClassification/node_modules/egg/config/config.default.js",
-  "proxy": "/Users/Jason/Git&Project/fontClassification/node_modules/egg/config/config.default.js",
-  "protocolHeaders": "/Users/Jason/Git&Project/fontClassification/node_modules/egg/config/config.default.js",
-  "ipHeaders": "/Users/Jason/Git&Project/fontClassification/node_modules/egg/config/config.default.js",
-  "hostHeaders": "/Users/Jason/Git&Project/fontClassification/node_modules/egg/config/config.default.js",
+  "env": "/Users/horo/Desktop/fontClassification/node_modules/egg/config/config.default.js",
+  "name": "/Users/horo/Desktop/fontClassification/node_modules/egg/config/config.default.js",
+  "proxy": "/Users/horo/Desktop/fontClassification/node_modules/egg/config/config.default.js",
+  "protocolHeaders": "/Users/horo/Desktop/fontClassification/node_modules/egg/config/config.default.js",
+  "ipHeaders": "/Users/horo/Desktop/fontClassification/node_modules/egg/config/config.default.js",
+  "hostHeaders": "/Users/horo/Desktop/fontClassification/node_modules/egg/config/config.default.js",
   "pkg": {
-    "name": "/Users/Jason/Git&Project/fontClassification/node_modules/egg/config/config.default.js",
-    "version": "/Users/Jason/Git&Project/fontClassification/node_modules/egg/config/config.default.js",
-    "description": "/Users/Jason/Git&Project/fontClassification/node_modules/egg/config/config.default.js",
-    "main": "/Users/Jason/Git&Project/fontClassification/node_modules/egg/config/config.default.js",
+    "name": "/Users/horo/Desktop/fontClassification/node_modules/egg/config/config.default.js",
+    "version": "/Users/horo/Desktop/fontClassification/node_modules/egg/config/config.default.js",
+    "description": "/Users/horo/Desktop/fontClassification/node_modules/egg/config/config.default.js",
+    "main": "/Users/horo/Desktop/fontClassification/node_modules/egg/config/config.default.js",
     "scripts": {
-      "start": "/Users/Jason/Git&Project/fontClassification/node_modules/egg/config/config.default.js",
-      "stop": "/Users/Jason/Git&Project/fontClassification/node_modules/egg/config/config.default.js",
-      "dev": "/Users/Jason/Git&Project/fontClassification/node_modules/egg/config/config.default.js",
-      "vendor": "/Users/Jason/Git&Project/fontClassification/node_modules/egg/config/config.default.js",
-      "render": "/Users/Jason/Git&Project/fontClassification/node_modules/egg/config/config.default.js"
+      "start": "/Users/horo/Desktop/fontClassification/node_modules/egg/config/config.default.js",
+      "stop": "/Users/horo/Desktop/fontClassification/node_modules/egg/config/config.default.js",
+      "dev": "/Users/horo/Desktop/fontClassification/node_modules/egg/config/config.default.js",
+      "vendor": "/Users/horo/Desktop/fontClassification/node_modules/egg/config/config.default.js",
+      "render": "/Users/horo/Desktop/fontClassification/node_modules/egg/config/config.default.js"
     },
     "repository": {
-      "type": "/Users/Jason/Git&Project/fontClassification/node_modules/egg/config/config.default.js",
-      "url": "/Users/Jason/Git&Project/fontClassification/node_modules/egg/config/config.default.js"
+      "type": "/Users/horo/Desktop/fontClassification/node_modules/egg/config/config.default.js",
+      "url": "/Users/horo/Desktop/fontClassification/node_modules/egg/config/config.default.js"
     },
-    "author": "/Users/Jason/Git&Project/fontClassification/node_modules/egg/config/config.default.js",
-    "license": "/Users/Jason/Git&Project/fontClassification/node_modules/egg/config/config.default.js",
+    "author": "/Users/horo/Desktop/fontClassification/node_modules/egg/config/config.default.js",
+    "license": "/Users/horo/Desktop/fontClassification/node_modules/egg/config/config.default.js",
     "bugs": {
-      "url": "/Users/Jason/Git&Project/fontClassification/node_modules/egg/config/config.default.js"
+      "url": "/Users/horo/Desktop/fontClassification/node_modules/egg/config/config.default.js"
     },
-    "homepage": "/Users/Jason/Git&Project/fontClassification/node_modules/egg/config/config.default.js",
+    "homepage": "/Users/horo/Desktop/fontClassification/node_modules/egg/config/config.default.js",
     "dependencies": {
-      "axios": "/Users/Jason/Git&Project/fontClassification/node_modules/egg/config/config.default.js",
-      "egg": "/Users/Jason/Git&Project/fontClassification/node_modules/egg/config/config.default.js",
-      "egg-mongoose": "/Users/Jason/Git&Project/fontClassification/node_modules/egg/config/config.default.js",
-      "egg-scripts": "/Users/Jason/Git&Project/fontClassification/node_modules/egg/config/config.default.js",
-      "egg-view-nunjucks": "/Users/Jason/Git&Project/fontClassification/node_modules/egg/config/config.default.js",
-      "moment": "/Users/Jason/Git&Project/fontClassification/node_modules/egg/config/config.default.js",
-      "webpack-dev-server": "/Users/Jason/Git&Project/fontClassification/node_modules/egg/config/config.default.js"
+      "axios": "/Users/horo/Desktop/fontClassification/node_modules/egg/config/config.default.js",
+      "egg": "/Users/horo/Desktop/fontClassification/node_modules/egg/config/config.default.js",
+      "egg-mongoose": "/Users/horo/Desktop/fontClassification/node_modules/egg/config/config.default.js",
+      "egg-scripts": "/Users/horo/Desktop/fontClassification/node_modules/egg/config/config.default.js",
+      "egg-view-nunjucks": "/Users/horo/Desktop/fontClassification/node_modules/egg/config/config.default.js",
+      "moment": "/Users/horo/Desktop/fontClassification/node_modules/egg/config/config.default.js",
+      "webpack-dev-server": "/Users/horo/Desktop/fontClassification/node_modules/egg/config/config.default.js"
     },
     "devDependencies": {
-      "antd": "/Users/Jason/Git&Project/fontClassification/node_modules/egg/config/config.default.js",
-      "babel-core": "/Users/Jason/Git&Project/fontClassification/node_modules/egg/config/config.default.js",
-      "babel-eslint": "/Users/Jason/Git&Project/fontClassification/node_modules/egg/config/config.default.js",
-      "babel-loader": "/Users/Jason/Git&Project/fontClassification/node_modules/egg/config/config.default.js",
-      "babel-plugin-add-module-exports": "/Users/Jason/Git&Project/fontClassification/node_modules/egg/config/config.default.js",
-      "babel-plugin-import": "/Users/Jason/Git&Project/fontClassification/node_modules/egg/config/config.default.js",
-      "babel-plugin-transform-runtime": "/Users/Jason/Git&Project/fontClassification/node_modules/egg/config/config.default.js",
-      "babel-preset-es2015": "/Users/Jason/Git&Project/fontClassification/node_modules/egg/config/config.default.js",
-      "babel-preset-react": "/Users/Jason/Git&Project/fontClassification/node_modules/egg/config/config.default.js",
-      "babel-preset-stage-2": "/Users/Jason/Git&Project/fontClassification/node_modules/egg/config/config.default.js",
-      "clean-webpack-plugin": "/Users/Jason/Git&Project/fontClassification/node_modules/egg/config/config.default.js",
-      "dva": "/Users/Jason/Git&Project/fontClassification/node_modules/egg/config/config.default.js",
-      "egg-bin": "/Users/Jason/Git&Project/fontClassification/node_modules/egg/config/config.default.js",
-      "eslint": "/Users/Jason/Git&Project/fontClassification/node_modules/egg/config/config.default.js",
-      "eslint-config-airbnb": "/Users/Jason/Git&Project/fontClassification/node_modules/egg/config/config.default.js",
-      "eslint-config-egg": "/Users/Jason/Git&Project/fontClassification/node_modules/egg/config/config.default.js",
-      "eslint-import-resolver-configurable": "/Users/Jason/Git&Project/fontClassification/node_modules/egg/config/config.default.js",
-      "eslint-plugin-import": "/Users/Jason/Git&Project/fontClassification/node_modules/egg/config/config.default.js",
-      "eslint-plugin-jsx-a11y": "/Users/Jason/Git&Project/fontClassification/node_modules/egg/config/config.default.js",
-      "eslint-plugin-react": "/Users/Jason/Git&Project/fontClassification/node_modules/egg/config/config.default.js",
-      "extract-text-webpack-plugin": "/Users/Jason/Git&Project/fontClassification/node_modules/egg/config/config.default.js",
-      "file-loader": "/Users/Jason/Git&Project/fontClassification/node_modules/egg/config/config.default.js",
-      "html-webpack-harddisk-plugin": "/Users/Jason/Git&Project/fontClassification/node_modules/egg/config/config.default.js",
-      "html-webpack-plugin": "/Users/Jason/Git&Project/fontClassification/node_modules/egg/config/config.default.js",
-      "less": "/Users/Jason/Git&Project/fontClassification/node_modules/egg/config/config.default.js",
-      "less-loader": "/Users/Jason/Git&Project/fontClassification/node_modules/egg/config/config.default.js",
-      "react": "/Users/Jason/Git&Project/fontClassification/node_modules/egg/config/config.default.js",
-      "react-dom": "/Users/Jason/Git&Project/fontClassification/node_modules/egg/config/config.default.js",
-      "style-loader": "/Users/Jason/Git&Project/fontClassification/node_modules/egg/config/config.default.js",
-      "url-loader": "/Users/Jason/Git&Project/fontClassification/node_modules/egg/config/config.default.js",
-      "webpack": "/Users/Jason/Git&Project/fontClassification/node_modules/egg/config/config.default.js"
+      "antd": "/Users/horo/Desktop/fontClassification/node_modules/egg/config/config.default.js",
+      "babel-core": "/Users/horo/Desktop/fontClassification/node_modules/egg/config/config.default.js",
+      "babel-eslint": "/Users/horo/Desktop/fontClassification/node_modules/egg/config/config.default.js",
+      "babel-loader": "/Users/horo/Desktop/fontClassification/node_modules/egg/config/config.default.js",
+      "babel-plugin-add-module-exports": "/Users/horo/Desktop/fontClassification/node_modules/egg/config/config.default.js",
+      "babel-plugin-import": "/Users/horo/Desktop/fontClassification/node_modules/egg/config/config.default.js",
+      "babel-plugin-transform-runtime": "/Users/horo/Desktop/fontClassification/node_modules/egg/config/config.default.js",
+      "babel-preset-es2015": "/Users/horo/Desktop/fontClassification/node_modules/egg/config/config.default.js",
+      "babel-preset-react": "/Users/horo/Desktop/fontClassification/node_modules/egg/config/config.default.js",
+      "babel-preset-stage-2": "/Users/horo/Desktop/fontClassification/node_modules/egg/config/config.default.js",
+      "classnames": "/Users/horo/Desktop/fontClassification/node_modules/egg/config/config.default.js",
+      "clean-webpack-plugin": "/Users/horo/Desktop/fontClassification/node_modules/egg/config/config.default.js",
+      "dva": "/Users/horo/Desktop/fontClassification/node_modules/egg/config/config.default.js",
+      "egg-bin": "/Users/horo/Desktop/fontClassification/node_modules/egg/config/config.default.js",
+      "eslint": "/Users/horo/Desktop/fontClassification/node_modules/egg/config/config.default.js",
+      "eslint-config-airbnb": "/Users/horo/Desktop/fontClassification/node_modules/egg/config/config.default.js",
+      "eslint-config-egg": "/Users/horo/Desktop/fontClassification/node_modules/egg/config/config.default.js",
+      "eslint-import-resolver-configurable": "/Users/horo/Desktop/fontClassification/node_modules/egg/config/config.default.js",
+      "eslint-plugin-import": "/Users/horo/Desktop/fontClassification/node_modules/egg/config/config.default.js",
+      "eslint-plugin-jsx-a11y": "/Users/horo/Desktop/fontClassification/node_modules/egg/config/config.default.js",
+      "eslint-plugin-react": "/Users/horo/Desktop/fontClassification/node_modules/egg/config/config.default.js",
+      "extract-text-webpack-plugin": "/Users/horo/Desktop/fontClassification/node_modules/egg/config/config.default.js",
+      "file-loader": "/Users/horo/Desktop/fontClassification/node_modules/egg/config/config.default.js",
+      "html-webpack-harddisk-plugin": "/Users/horo/Desktop/fontClassification/node_modules/egg/config/config.default.js",
+      "html-webpack-plugin": "/Users/horo/Desktop/fontClassification/node_modules/egg/config/config.default.js",
+      "less": "/Users/horo/Desktop/fontClassification/node_modules/egg/config/config.default.js",
+      "less-loader": "/Users/horo/Desktop/fontClassification/node_modules/egg/config/config.default.js",
+      "react": "/Users/horo/Desktop/fontClassification/node_modules/egg/config/config.default.js",
+      "react-dom": "/Users/horo/Desktop/fontClassification/node_modules/egg/config/config.default.js",
+      "style-loader": "/Users/horo/Desktop/fontClassification/node_modules/egg/config/config.default.js",
+      "url-loader": "/Users/horo/Desktop/fontClassification/node_modules/egg/config/config.default.js",
+      "webpack": "/Users/horo/Desktop/fontClassification/node_modules/egg/config/config.default.js"
     }
   },
-  "baseDir": "/Users/Jason/Git&Project/fontClassification/node_modules/egg/config/config.default.js",
-  "HOME": "/Users/Jason/Git&Project/fontClassification/node_modules/egg/config/config.default.js",
-  "rundir": "/Users/Jason/Git&Project/fontClassification/node_modules/egg/config/config.default.js",
+  "baseDir": "/Users/horo/Desktop/fontClassification/node_modules/egg/config/config.default.js",
+  "HOME": "/Users/horo/Desktop/fontClassification/node_modules/egg/config/config.default.js",
+  "rundir": "/Users/horo/Desktop/fontClassification/node_modules/egg/config/config.default.js",
   "dump": {
-    "ignore": "/Users/Jason/Git&Project/fontClassification/node_modules/egg/config/config.default.js"
+    "ignore": "/Users/horo/Desktop/fontClassification/node_modules/egg/config/config.default.js"
   },
   "confusedConfigurations": {
-    "bodyparser": "/Users/Jason/Git&Project/fontClassification/node_modules/egg/config/config.default.js",
-    "notFound": "/Users/Jason/Git&Project/fontClassification/node_modules/egg/config/config.default.js",
-    "sitefile": "/Users/Jason/Git&Project/fontClassification/node_modules/egg/config/config.default.js",
-    "middlewares": "/Users/Jason/Git&Project/fontClassification/node_modules/egg/config/config.default.js",
-    "httpClient": "/Users/Jason/Git&Project/fontClassification/node_modules/egg/config/config.default.js"
+    "bodyparser": "/Users/horo/Desktop/fontClassification/node_modules/egg/config/config.default.js",
+    "notFound": "/Users/horo/Desktop/fontClassification/node_modules/egg/config/config.default.js",
+    "sitefile": "/Users/horo/Desktop/fontClassification/node_modules/egg/config/config.default.js",
+    "middlewares": "/Users/horo/Desktop/fontClassification/node_modules/egg/config/config.default.js",
+    "httpClient": "/Users/horo/Desktop/fontClassification/node_modules/egg/config/config.default.js"
   },
   "notfound": {
-    "pageUrl": "/Users/Jason/Git&Project/fontClassification/node_modules/egg/config/config.default.js"
+    "pageUrl": "/Users/horo/Desktop/fontClassification/node_modules/egg/config/config.default.js"
   },
   "siteFile": {
-    "/favicon.ico": "/Users/Jason/Git&Project/fontClassification/node_modules/egg/config/config.default.js"
+    "/favicon.ico": "/Users/horo/Desktop/fontClassification/node_modules/egg/config/config.default.js"
   },
   "bodyParser": {
-    "enable": "/Users/Jason/Git&Project/fontClassification/node_modules/egg/config/config.default.js",
-    "encoding": "/Users/Jason/Git&Project/fontClassification/node_modules/egg/config/config.default.js",
-    "formLimit": "/Users/Jason/Git&Project/fontClassification/node_modules/egg/config/config.default.js",
-    "jsonLimit": "/Users/Jason/Git&Project/fontClassification/node_modules/egg/config/config.default.js",
-    "strict": "/Users/Jason/Git&Project/fontClassification/node_modules/egg/config/config.default.js",
+    "enable": "/Users/horo/Desktop/fontClassification/node_modules/egg/config/config.default.js",
+    "encoding": "/Users/horo/Desktop/fontClassification/node_modules/egg/config/config.default.js",
+    "formLimit": "/Users/horo/Desktop/fontClassification/node_modules/egg/config/config.default.js",
+    "jsonLimit": "/Users/horo/Desktop/fontClassification/node_modules/egg/config/config.default.js",
+    "strict": "/Users/horo/Desktop/fontClassification/node_modules/egg/config/config.default.js",
     "queryString": {
-      "arrayLimit": "/Users/Jason/Git&Project/fontClassification/node_modules/egg/config/config.default.js",
-      "depth": "/Users/Jason/Git&Project/fontClassification/node_modules/egg/config/config.default.js",
-      "parameterLimit": "/Users/Jason/Git&Project/fontClassification/node_modules/egg/config/config.default.js"
+      "arrayLimit": "/Users/horo/Desktop/fontClassification/node_modules/egg/config/config.default.js",
+      "depth": "/Users/horo/Desktop/fontClassification/node_modules/egg/config/config.default.js",
+      "parameterLimit": "/Users/horo/Desktop/fontClassification/node_modules/egg/config/config.default.js"
     }
   },
   "logger": {
-    "dir": "/Users/Jason/Git&Project/fontClassification/node_modules/egg/config/config.default.js",
-    "encoding": "/Users/Jason/Git&Project/fontClassification/node_modules/egg/config/config.default.js",
-    "env": "/Users/Jason/Git&Project/fontClassification/node_modules/egg/config/config.default.js",
-    "level": "/Users/Jason/Git&Project/fontClassification/node_modules/egg/config/config.default.js",
-    "consoleLevel": "/Users/Jason/Git&Project/fontClassification/node_modules/egg/config/config.default.js",
-    "disableConsoleAfterReady": "/Users/Jason/Git&Project/fontClassification/node_modules/egg/config/config.default.js",
-    "outputJSON": "/Users/Jason/Git&Project/fontClassification/node_modules/egg/config/config.default.js",
-    "buffer": "/Users/Jason/Git&Project/fontClassification/node_modules/egg/config/config.default.js",
-    "appLogName": "/Users/Jason/Git&Project/fontClassification/node_modules/egg/config/config.default.js",
-    "coreLogName": "/Users/Jason/Git&Project/fontClassification/node_modules/egg/config/config.default.js",
-    "agentLogName": "/Users/Jason/Git&Project/fontClassification/node_modules/egg/config/config.default.js",
-    "errorLogName": "/Users/Jason/Git&Project/fontClassification/node_modules/egg/config/config.default.js",
-    "coreLogger": {
-      "consoleLevel": "/Users/Jason/Git&Project/fontClassification/node_modules/egg/config/config.local.js"
-    },
-    "allowDebugAtProd": "/Users/Jason/Git&Project/fontClassification/node_modules/egg/config/config.default.js"
+    "dir": "/Users/horo/Desktop/fontClassification/node_modules/egg/config/config.default.js",
+    "encoding": "/Users/horo/Desktop/fontClassification/node_modules/egg/config/config.default.js",
+    "env": "/Users/horo/Desktop/fontClassification/node_modules/egg/config/config.default.js",
+    "level": "/Users/horo/Desktop/fontClassification/node_modules/egg/config/config.default.js",
+    "consoleLevel": "/Users/horo/Desktop/fontClassification/node_modules/egg/config/config.default.js",
+    "disableConsoleAfterReady": "/Users/horo/Desktop/fontClassification/node_modules/egg/config/config.default.js",
+    "outputJSON": "/Users/horo/Desktop/fontClassification/node_modules/egg/config/config.default.js",
+    "buffer": "/Users/horo/Desktop/fontClassification/node_modules/egg/config/config.default.js",
+    "appLogName": "/Users/horo/Desktop/fontClassification/node_modules/egg/config/config.default.js",
+    "coreLogName": "/Users/horo/Desktop/fontClassification/node_modules/egg/config/config.default.js",
+    "agentLogName": "/Users/horo/Desktop/fontClassification/node_modules/egg/config/config.default.js",
+    "errorLogName": "/Users/horo/Desktop/fontClassification/node_modules/egg/config/config.default.js",
+    "coreLogger": "/Users/horo/Desktop/fontClassification/node_modules/egg/config/config.default.js",
+    "allowDebugAtProd": "/Users/horo/Desktop/fontClassification/node_modules/egg/config/config.default.js"
   },
   "httpclient": {
-    "enableDNSCache": "/Users/Jason/Git&Project/fontClassification/node_modules/egg/config/config.default.js",
-    "dnsCacheMaxLength": "/Users/Jason/Git&Project/fontClassification/node_modules/egg/config/config.default.js",
-    "dnsCacheMaxAge": "/Users/Jason/Git&Project/fontClassification/node_modules/egg/config/config.default.js",
+    "enableDNSCache": "/Users/horo/Desktop/fontClassification/node_modules/egg/config/config.default.js",
+    "dnsCacheMaxLength": "/Users/horo/Desktop/fontClassification/node_modules/egg/config/config.default.js",
+    "dnsCacheMaxAge": "/Users/horo/Desktop/fontClassification/node_modules/egg/config/config.default.js",
     "request": {
-      "timeout": "/Users/Jason/Git&Project/fontClassification/node_modules/egg/config/config.default.js"
+      "timeout": "/Users/horo/Desktop/fontClassification/node_modules/egg/config/config.default.js"
     },
     "httpAgent": {
-      "keepAlive": "/Users/Jason/Git&Project/fontClassification/node_modules/egg/config/config.default.js",
-      "freeSocketKeepAliveTimeout": "/Users/Jason/Git&Project/fontClassification/node_modules/egg/config/config.default.js",
-      "maxSockets": "/Users/Jason/Git&Project/fontClassification/node_modules/egg/config/config.default.js",
-      "maxFreeSockets": "/Users/Jason/Git&Project/fontClassification/node_modules/egg/config/config.default.js"
+      "keepAlive": "/Users/horo/Desktop/fontClassification/node_modules/egg/config/config.default.js",
+      "freeSocketKeepAliveTimeout": "/Users/horo/Desktop/fontClassification/node_modules/egg/config/config.default.js",
+      "maxSockets": "/Users/horo/Desktop/fontClassification/node_modules/egg/config/config.default.js",
+      "maxFreeSockets": "/Users/horo/Desktop/fontClassification/node_modules/egg/config/config.default.js"
     },
     "httpsAgent": {
-      "keepAlive": "/Users/Jason/Git&Project/fontClassification/node_modules/egg/config/config.default.js",
-      "freeSocketKeepAliveTimeout": "/Users/Jason/Git&Project/fontClassification/node_modules/egg/config/config.default.js",
-      "maxSockets": "/Users/Jason/Git&Project/fontClassification/node_modules/egg/config/config.default.js",
-      "maxFreeSockets": "/Users/Jason/Git&Project/fontClassification/node_modules/egg/config/config.default.js"
+      "keepAlive": "/Users/horo/Desktop/fontClassification/node_modules/egg/config/config.default.js",
+      "freeSocketKeepAliveTimeout": "/Users/horo/Desktop/fontClassification/node_modules/egg/config/config.default.js",
+      "maxSockets": "/Users/horo/Desktop/fontClassification/node_modules/egg/config/config.default.js",
+      "maxFreeSockets": "/Users/horo/Desktop/fontClassification/node_modules/egg/config/config.default.js"
     }
   },
   "meta": {
-    "enable": "/Users/Jason/Git&Project/fontClassification/node_modules/egg/config/config.default.js",
-    "logging": "/Users/Jason/Git&Project/fontClassification/node_modules/egg/config/config.default.js"
+    "enable": "/Users/horo/Desktop/fontClassification/node_modules/egg/config/config.default.js",
+    "logging": "/Users/horo/Desktop/fontClassification/node_modules/egg/config/config.default.js"
   },
-  "coreMiddleware": "/Users/Jason/Git&Project/fontClassification/node_modules/egg/config/config.default.js",
-  "workerStartTimeout": "/Users/Jason/Git&Project/fontClassification/node_modules/egg/config/config.default.js",
+  "coreMiddleware": "/Users/horo/Desktop/fontClassification/node_modules/egg/config/config.default.js",
+  "workerStartTimeout": "/Users/horo/Desktop/fontClassification/node_modules/egg/config/config.default.js",
   "clusterClient": {
-    "responseTimeout": "/Users/Jason/Git&Project/fontClassification/node_modules/egg/config/config.default.js"
+    "responseTimeout": "/Users/horo/Desktop/fontClassification/node_modules/egg/config/config.default.js"
   }
 }
