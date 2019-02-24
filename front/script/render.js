@@ -143,6 +143,8 @@ function getConfig({ type, src, dist, origin }) {
 module.exports = ({ type, host, port, render: src, dist }) => {
   const origin = `http://${host}:${port}`;
   const { config, devOption } = getConfig({ type, src, dist, origin });
+  const show = config.module.rules.forEach
+  // log('config', JSON.stringify(config, null, 2));
 
   const compiler = webpack(config);
   if (type === 'build') {

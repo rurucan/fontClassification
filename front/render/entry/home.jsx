@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import { connect } from 'dva';
 
 import Header from '../components/Header';
 import Footer from '../components/Footer';
@@ -20,7 +21,7 @@ class MainPage extends Component {
     const { temp } = this.state;
     return (
       <div>
-        <Button type="primary">Primary</Button>
+        <Button type="primary">{this.props.main.title}</Button>
         <p>{temp}</p>
         <Header temp={temp} setTemp={this.setTemp} />
         <Footer temp={temp} setTemp={this.setTemp} />
@@ -29,4 +30,6 @@ class MainPage extends Component {
   }
 }
 
-export default MainPage;
+export default connect(({ main }) => ({
+  main,
+}))(MainPage);

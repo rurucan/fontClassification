@@ -1,0 +1,37 @@
+Html Webpack Plugin:
+<pre>
+  Error: Child compilation failed:
+  Entry module not found: Error: Can't resolve '/Users/horo/Desktop/fontClassification/front/template/router.h  tml' in '/Users/horo/Desktop/fontClassification/front/render':
+  Error: Can't resolve '/Users/horo/Desktop/fontClassification/front/template/router.html' in '/Users/horo/Des  ktop/fontClassification/front/render'
+  
+  - compiler.js:73 childCompiler.runAsChild
+    [fontClassification]/[html-webpack-plugin]/lib/compiler.js:73:16
+  
+  - Compiler.js:300 compile
+    [fontClassification]/[webpack]/lib/Compiler.js:300:11
+  
+  - Compiler.js:510 applyPluginsAsync.err
+    [fontClassification]/[webpack]/lib/Compiler.js:510:14
+  
+  - Tapable.js:202 next
+    [fontClassification]/[webpack]/[tapable]/lib/Tapable.js:202:11
+  
+  - CachePlugin.js:78 Compiler.<anonymous>
+    [fontClassification]/[webpack]/lib/CachePlugin.js:78:5
+  
+  - Tapable.js:206 Compiler.applyPluginsAsyncSeries
+    [fontClassification]/[webpack]/[tapable]/lib/Tapable.js:206:13
+  
+  - Compiler.js:507 compilation.seal.err
+    [fontClassification]/[webpack]/lib/Compiler.js:507:11
+  
+  - Tapable.js:195 Compilation.applyPluginsAsyncSeries
+    [fontClassification]/[webpack]/[tapable]/lib/Tapable.js:195:46
+  
+  - Compilation.js:677 applyPluginsAsync.err
+    [fontClassification]/[webpack]/lib/Compilation.js:677:19
+  
+  - Tapable.js:195 Compilation.applyPluginsAsyncSeries
+    [fontClassification]/[webpack]/[tapable]/lib/Tapable.js:195:46
+  
+</pre>

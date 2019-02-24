@@ -197,6 +197,7 @@
       "babel-preset-stage-2": "/Users/horo/Desktop/fontClassification/node_modules/egg/config/config.default.js",
       "classnames": "/Users/horo/Desktop/fontClassification/node_modules/egg/config/config.default.js",
       "clean-webpack-plugin": "/Users/horo/Desktop/fontClassification/node_modules/egg/config/config.default.js",
+      "css-loader": "/Users/horo/Desktop/fontClassification/node_modules/egg/config/config.default.js",
       "dva": "/Users/horo/Desktop/fontClassification/node_modules/egg/config/config.default.js",
       "egg-bin": "/Users/horo/Desktop/fontClassification/node_modules/egg/config/config.default.js",
       "eslint": "/Users/horo/Desktop/fontClassification/node_modules/egg/config/config.default.js",

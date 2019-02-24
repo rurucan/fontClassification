@@ -4,7 +4,7 @@ function makeRules(src, opts = {}) {
   const makeExtract = () => {
     const cssLoaders = [{
       loader: 'css-loader',
-      options: { minimize: isProduct },
+      // options: { minimize: isProduct },
     }];
     if (isProduct) cssLoaders.push('postcss-loader');
     const lessLoaders = [...cssLoaders, 'less-loader'];

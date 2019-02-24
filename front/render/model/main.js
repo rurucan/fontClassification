@@ -1,7 +1,9 @@
 
 export default {
   namespace: 'main',
-  state: {},
+  state: {
+    title: '字体分类',
+  },
   reducers: {},
   effects: {},
   subscriptions: {},
